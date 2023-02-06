@@ -4,7 +4,7 @@ Hi 👋, I'm Currently working with MERN Tech Stack.<br>Learning to write more s
 
 # 🌐 Socials
 
-[![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leetcode.com/Insh72Amim/)
+[![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://syedamim.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-amim)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Insh72Amim/)
 [![LeetCode](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/amiminsherah/practice/)
