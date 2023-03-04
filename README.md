@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi 👋, I'm Currently working with MERN Tech Stack.<br>Learning to write more scalable and debuggable code in node.js 😊<br> Practicing Data Structures and Algorithms<br>Youtuber-ohlic 😉
+Hi 👋, I'm Currently working with MERN Tech Stack.<br>Learning to write more scalable and debuggable code in node.js <br> Practicing Data Structures and Algorithms<br>
 
 # 🌐 Socials
 
