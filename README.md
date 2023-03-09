@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-Hi 👋, I'm Currently working with MERN Tech Stack.<br>Learning to write more scalable and debuggable code in node.js <br> Practicing Data Structures and Algorithms<br>
+Hi 👋, I'm Currently working with MERN Tech Stack <br>
+👨‍💻 Write Scalable, Debuggable, well Cached and well logged RESTful APIs<br>
+💻 Backend Developer <br>
+🛠️ Data Structures and Algorithms<br>
 
 # 🌐 Socials
 
@@ -51,7 +54,6 @@ Hi 👋, I'm Currently working with MERN Tech Stack.<br>Learning to write more s
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Coralogix](https://img.shields.io/badge/Coralogix-%2300843e?style=for-the-badge&logo=Coralogix&logoColor=white)
-
 
 # 📊 GitHub Stats:
 
