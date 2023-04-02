@@ -1,27 +1,38 @@
-# 💫 About Me:
+# Hello, folks! 👋
 
-Hi 👋, I'm Currently working with MERN Tech Stack <br>
-👨‍💻 Write Scalable, Debuggable, well Cached and well logged RESTful APIs<br>
-💻 Backend Developer <br>
-🛠️ Data Structures and Algorithms<br>
+<br />
+
+I am a software engineer curently working with Byjus. I graduated from IIT Patna in may 2022. I like learning and developing backend systems and my interest is in distributed systems. I am tech enthusiast who has experience with Python Java Javascript but Currently I'm working with Javascript developing backend APIs in NodeJs.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
+
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m a Software Engineer @Byjus;
+- 👨🏽‍💻 I’m currently learning new Desing Concepts;
+- 💻 Writing Clear, Scalable and Debuggable code;
+- 🛠️ Data Structures and Algorithms;
+- 💬 I am happy to help, if you need some;
+- 📫 How to reach me: [Syed Amim](https://www.linkedin.com/in/syed-amim/);
+- 📝[Resume](https://drive.google.com/file/d/1H0tpkmWjzI6jNOlSwXAHgscyXEoxXo4A/view?usp=share_link)
 
 # 🌐 Socials
 
-[![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://syedamim.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-amim)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Insh72Amim/)
-[![LeetCode](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/amiminsherah/practice/)
-[![LeetCode](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amim_insherah?hr_r=1)
-[![LeetCode](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/smia72)
-[![LeetCode](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/syedamim1)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://insh72amim.github.io/personal-portfolio-amim/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-amim)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Insh72Amim/)
+[![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/amiminsherah/practice/)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amim_insherah?hr_r=1)
+[![](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/smia72)
+[![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/syedamim1)
 
 # 🔤 Programming Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📜 Databases
 
