@@ -68,13 +68,13 @@ I am a software engineer curently working with Byjus. I graduated from IIT Patna
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Insh72Amim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Insh72Amim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Insh72Amim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Insh72Amim&show_icons=true&theme=algolia)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Insh72Amim&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Insh72Amim&theme=algolia&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ---
 
