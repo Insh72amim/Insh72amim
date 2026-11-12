@@ -10,19 +10,6 @@
 
 <br />
 
-```typescript
-const engineer = {
-  name: "Syed Amim",
-  role: "Senior Software Engineer",
-  company: "Goldman Sachs",
-  location: "Hyderabad, India",
-  education: "B.Tech, Indian Institute of Technology (IIT Patna)",
-  stack: ["Java", "Spring Boot", "Scala", "Snowflake", "Kafka", "AWS"],
-  aiStack: ["LangChain", "GPT-4o", "Claude 3.5", "RAG", "Vector Stores"],
-  certifications: ["AWS Certified Developer - Associate (DVA-C02)"]
-};
-```
-
 </div>
 
 ---
