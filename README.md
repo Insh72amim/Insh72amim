@@ -3,7 +3,6 @@
 # Syed Amim
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedamim.site-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedamim.site/)
-[![Live Hub](https://img.shields.io/badge/Live_Hub-localhub.site-10b981?style=for-the-badge&logo=server&logoColor=white)](https://localhub.site)
 [![Resume](https://img.shields.io/badge/Resume-Google_Drive-3b82f6?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_wr00uhNkuEgKBQsgZmpaZaIsXtf8DNa/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-amim)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/11be9b3b-5f3b-4b34-a44d-6e3565a15a3d)
