@@ -1,7 +1,6 @@
 <div align="center">
 
 # Syed Amim
-### Senior Software Engineer @ Goldman Sachs | 4+ YOE | IIT Patna Alum
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedamim.site-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedamim.site/)
 [![Live Hub](https://img.shields.io/badge/Live_Hub-localhub.site-10b981?style=for-the-badge&logo=server&logoColor=white)](https://localhub.site)
